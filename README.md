@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7D1DF7&center=true&vCenter=true&lines=Hello%2C+there+!+%F0%9F%A4%93;I'm+%7B%7B+Juan+David+%7D%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=515&lines=sout(%22Hello%2C+there+!%22);%3Ch1%3E+I'm+%7B%7B+Juan+David+%7D%7D+%3C%2Fh1%3E;%3Cprofession%3E+%7B%60%24%7B+student+%7D%60%7D+%3C%2Fprofession%3E)](https://git.io/typing-svg)
+---
+## 🤓 Technologies
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
