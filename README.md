@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>Practice 🧠</td>
-      <td>Technologies or programming languages that you tried and loved it, so you practice regularly</td>
+      <td>Technologies or programming languages that you tried and loved them, so you practice regularly these technologies.</td>
       <td>
         <p>
           <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>Documentation 🥱</td>
-      <td>Technologies or programming languages that you practice but didn't like, however, you know how to document yourself about it.</td>
+      <td>Technologies or programming languages that you practice but didn't like them, however, you know how to document yourself about it.</td>
       <td>
         <p>
           <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td>Hello World 😅</td>
-      <td>You don't know much about it to make "complex" projects.</td>
+      <td>You don't know much about them to make "complex" projects.</td>
       <td>
         <p>
           <img alt="Python"
