@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
         <div class="codding">     
         
           <p class="code"> 
-            {{ aboutMe.HTML }} - {{ aboutMe.CSS }} - {{ aboutMe.SCSS }} -  {{ aboutMe.Javascript}} - {{ aboutMe.Typescript}} 
-            - {{ aboutMe.Java}}
+            {{ aboutMe.HTML }} - {{ aboutMe.CSS }} - {{ aboutMe.SCSS }} -  {{ aboutMe.Javascript}} 
+            - {{ aboutMe.Typescript}} - {{ aboutMe.Java}}
           </p>
     
           <p class="tools"> {{ aboutMe.Tailwind }} - {{ aboutMe.Bootstrap }} - {{ aboutMe.styledComponents }} </p>
