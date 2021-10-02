@@ -35,7 +35,7 @@ import { Component, OnInit } from '@angular/core';
           this.aboutMeSvc
           .getMe()
           .subscribe((content: aboutMeI[]) => {
-            this.why = content;
+            this.aboutMe = content;
           }
         );
       }
