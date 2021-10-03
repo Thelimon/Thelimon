@@ -12,7 +12,10 @@ import { Component, OnInit } from '@angular/core';
             - {{ aboutMe.Typescript}} - {{ aboutMe.Java}}
           </p>
     
-          <p class="tools"> {{ aboutMe.Tailwind }} - {{ aboutMe.Bootstrap }} - {{ aboutMe.styledComponents }} </p>
+          <p class="tools"> 
+            {{ aboutMe.Tailwind }} - {{ aboutMe.Bootstrap }} - {{ aboutMe.styledComponents }} 
+            - {{ abooutMe.React }} - {{ abooutMe.Redux }} - {{ abooutMe.Angular }} - {{ abooutMe.Rxjs }}
+          </p>
          
         </div>
         
