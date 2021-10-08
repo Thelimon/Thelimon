@@ -20,7 +20,7 @@ import { Component, OnInit } from '@angular/core';
         </div>
         
         <div class="workplace"> 
-          <p class="company"> {{ aboutMe.looking4 }}  </p>
+          <p class="company"> {{ aboutMe.PappCorn }}  </p>
           <p class="position"> {{aboutMe.webDeveloper }} </p>
         </div>
     `
