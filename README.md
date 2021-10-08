@@ -21,7 +21,7 @@ import { Component, OnInit } from '@angular/core';
         
         <div class="workplace"> 
           <p class="company"> {{ aboutMe.PappCorn }}  </p>
-          <p class="position"> {{aboutMe.webDeveloper }} </p>
+          <p class="position"> {{aboutMe.FrontEndDeveloper }} </p>
         </div>
     `
   })
