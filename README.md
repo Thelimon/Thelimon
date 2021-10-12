@@ -1,46 +1,27 @@
-```ts
-import { Component, OnInit } from '@angular/core';
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
- @Component({
-  selector: 'app-me',
-   template: `
-      <h1 class="name"> {{ aboutMe.Juan David }} </h1>
-        <div class="codding">     
-        
-          <p class="code"> 
-            {{ aboutMe.HTML }} - {{ aboutMe.CSS }} - {{ aboutMe.SCSS }} -  {{ aboutMe.Javascript}} 
-            - {{ aboutMe.Typescript}} - {{ aboutMe.Java}}
-          </p>
-    
-          <p class="tools"> 
-            {{ aboutMe.Tailwind }} - {{ aboutMe.Bootstrap }} - {{ aboutMe.styledComponents }} 
-            - {{ abooutMe.React }} - {{ abooutMe.Redux }} - {{ abooutMe.Angular }} - {{ abooutMe.Rxjs }}
-          </p>
-         
-        </div>
-        
-        <div class="workplace"> 
-          <p class="company"> {{ aboutMe.PappCorn }}  </p>
-          <p class="position"> {{aboutMe.FrontEndDeveloper }} </p>
-        </div>
-    `
-  })
-  
-  export class HomeComponent Implements OnInit {
-  
-        public aboutMe: aboutMeI[] = [];    
-        
-        constructor(private: aboutMeSvc: AboutMeService){}
-        
-        ngOnInit(): void { this.getMe(); }
-        
-        private getMe(): void {
-          this.aboutMeSvc
-          .getMe()
-          .subscribe((content: aboutMeI[]) => {
-            this.aboutMe = content;
-          }
-        );
-      }
-  }   
+```ts
+const Juan = {
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["Web dev", "Tech", "App Dev", "Books"],
+    technologies: {
+        frontEnd: {
+            ts: ["React", "Angular"]
+        },
+        styles: {
+            css: ["Sass", "Tailwind", "Bootstrap", "StyledComponents", "ChakraIU"],
+        },
+        backEnd: {
+            ts: ["NestJS"],
+        },
+        mobileApp: {
+            hybrid: ["Ionic"],
+        },
+        devOps: ["No yet..."],
+        databases: ["Mongo", "MySql"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Hybrid applications",
+};
 ```
