@@ -2,24 +2,24 @@
 
 ```ts
 const Juan = {
-    code: ["Javascript", "Typescript"],
+    code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["Web dev", "Tech", "App Dev", "Books"],
     technologies: {
         frontEnd: {
-            ts: ["React", "Angular"]
+            ts: ["React", "Angular", "Svelte"]
         },
         styles: {
-            css: ["Sass", "Tailwind", "Bootstrap", "StyledComponents", "ChakraIU"],
+            css: ["Sass", "TailwindCSS", "Bootstrap", "StyledComponents", "ChakraIU", "Material UI"],
         },
         backEnd: {
-            ts: ["NestJS", "Java"],
+            ts: ["NestJS"],
         },
         mobileApp: {
             hybrid: ["Ionic"],
         },
         devOps: ["No yet..."],
-        databases: ["MongoDB", "Firebase", "MySql"],
-        misc: ["Firebase"]
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "MongoAtlas"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Hybrid applications",
