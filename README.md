@@ -12,13 +12,13 @@ const Juan = {
             css: ["Sass", "Tailwind", "Bootstrap", "StyledComponents", "ChakraIU"],
         },
         backEnd: {
-            ts: ["NestJS"],
+            ts: ["NestJS", "Java"],
         },
         mobileApp: {
             hybrid: ["Ionic"],
         },
         devOps: ["No yet..."],
-        databases: ["Mongo", "MySql"],
+        databases: ["MongoDB", "Firebase", "MySql"],
         misc: ["Firebase"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
