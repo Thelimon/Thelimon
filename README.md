@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=515&lines=sout(%22Hello%2C+there+!%22);%3Ch1%3E+I'm+%7B%7B+Juan+David+%7D%7D+%3C%2Fh1%3E;%3Cprofession%3E+%7B%60%24%7B+student+%7D%60%7D+%3C%2Fprofession%3E)](https://git.io/typing-svg)
   <table style="width:100%">
     <tr>
       <th>Level of Knowledge</th>
