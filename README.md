@@ -1,8 +1,4 @@
 <div align="center" width="50">
-  
-<br>Vibing to : 🎧  </strong></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juand21&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) <br>
 
   <table style="width:100%">
     <tr>
